@@ -1,5 +1,16 @@
 body{
-    background-color: cornflowerblue;
+    background-color:gray
     color:black ;
 
+} 
+header {
+     background-color: azure;
+  color: black;
+}
+main{
+      background-color: crimson;
+}
+footer{
+    background-color:antiquewhite
+    color(srgb red green blue)
 }
