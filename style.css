@@ -13,4 +13,34 @@ main{
 footer{
     background-color:antiquewhite
     color(srgb red green blue)
+} 
+
+h1 {  
+
+    font - size : 36 px; 
 }
+
+h2 {
+color: #6b2d5c;
+
+}
+
+p {
+ front-ize: 18 px;
+
+ line-height: 1 . 6;
+
+}
+ nav { 
+    margin-top : 20px;
+ }
+ 
+ nav a : houver { 
+    color : white; 
+    text-decoration: none;
+    background-color: #9b4d83;
+    padding: 10px 15 px;
+    border-radius: 8 px;
+    marging: 5px;
+    diplay : inline-block;
+ }
