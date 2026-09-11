@@ -33,9 +33,9 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
-    background-color: #9b4d83;
+    background-color: #f10505;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -43,7 +43,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #c77dff;
+    background-color: #3f92ff;
 }
 
 main {
@@ -74,7 +74,7 @@ figcaption{
     background-color: #f3d9fa;
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #6b2d55;
+    border-left: 6px solid #e25555;
     border-radius: 10px;
 }
 .card h3{
