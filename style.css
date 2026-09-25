@@ -19,7 +19,7 @@ h1 {
 }
 
 h2 {
-    color: #6b2d5c;
+    color: #8a2121;
 
 }
 
@@ -43,7 +43,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #3f92ff;
+    background-color: #63131d;
 }
 
 main {
@@ -52,7 +52,7 @@ main {
 }
 
 section {
-    background-color: white;
+    background-color: rgb(184, 65, 65);
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
