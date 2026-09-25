@@ -1,14 +1,14 @@
 body {
-    background-color: gray;
-    color: black;
+    background-color: rgb(126, 22, 22);
+    color: rgb(231, 225, 225);
     font-family: Arial, sans-serif;
     margin: 0;
 
 }
 
 header {
-    background-color: azure;
-    color: black;
+    background-color: rgb(134, 24, 24);
+    color: rgb(248, 242, 242);
     text-align: center;
     padding: 30px;
 }
@@ -86,7 +86,7 @@ figcaption {
 }
 
 footer {
-    background-color: #222222;
+    background-color: #e7e1e1;
     color: white;
     text-align: center;
     padding: 20px;
