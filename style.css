@@ -94,13 +94,20 @@ footer {
 }
 
 button{
-
+background-color: #63131d; (19, 20, 20);
+color:white;
+border:none;
+padding:10x 15px;
+border-radius:8px;
+cursor.pointer;
 }
 
 button:hover{
-
+background-color: #555555;
 }
 
 .curtir{
-    
+display:block;
+width:fit-content;
+margin:20px auto;
 }
